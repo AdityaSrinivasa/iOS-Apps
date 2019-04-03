@@ -1,0 +1,3 @@
+An iOS game created using sprite kit of the xcode which consists of a spaceship flying towards objects to collect
+The spaceship propels using the mouse click button
+The project also implements the use of gravity and impulse.
