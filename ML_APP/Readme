@@ -1,0 +1,3 @@
+A machine learning app implemented using the resnet50 model for image recognition to determine the object within the image.
+It displays the most probable answer along with the confidence of the answer
+It also has gallery and camera feature to take images and upload images from the iphone
